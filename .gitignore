@@ -1,0 +1,7 @@
+*.pyc
+.env
+.vscode
+*.jpg
+*.jpeg
+*.png
+.last_profile
